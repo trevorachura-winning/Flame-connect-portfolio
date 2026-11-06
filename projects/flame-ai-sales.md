@@ -18,5 +18,8 @@ Python, Streamlit, data processing, and machine-learning libraries.
 
 ## Explore
 - [Public GitHub repository](https://github.com/trevorachura-winning/AI_Sales_Project)
+- [Related Flame AI-Sales repository](https://github.com/trevorachura-winning/Flame-AI-Sales)
+
+No verified hosted demo link is currently included.
 
 > Results from predictive models depend on the quality, volume, and suitability of the data. This is a project showcase, not a claim of validated forecasting accuracy.
