@@ -18,5 +18,6 @@ Next.js App Router, TypeScript, modern frontend styling, and a deployment workfl
 
 ## Explore
 - [Public GitHub repository](https://github.com/trevorachura-winning/flame-connect-website)
+- [Configured website deployment](https://flame-connect-website-ruddy.vercel.app/) — current reachability and launch status are not independently verified.
 
 > Portfolio note: This page describes repository capabilities, not an independent production audit or a guarantee that every feature is live.
